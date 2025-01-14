@@ -1,5 +1,26 @@
 ---
-title: "reflection"
+title: "Reflection on the use of GenAI"
 format: html
 ---
 
+# Overview 
+
+Throughout my academic and personal projects, I've integrated Generative AI (GenAI) tools to enhance productivity and creativity. Here’s how these tools have shaped my work:
+
+## Streamlining Content Creation
+
+Using AI for generating website content and visual media has been a game-changer. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation.
+
+## Challenges and Learnings
+
+While GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill.
+
+![AI Concept](path/to/aiconcept.jpg){width=80%}
+
+## Future Prospects
+
+I see immense potential in AI, especially in the realm of personalized education and sustainable solutions. As I continue to explore AI capabilities, I aim to harness this technology to drive meaningful innovations in Fintech and beyond.
+
+Reflecting on my journey with GenAI, I am both excited and cautious about its evolving role in our lives. The ability to leverage such tools responsibly and creatively will undoubtedly be a key driver in my future endeavors.
+
+{{< video https://www.youtube.com/watch?v=exampleAIReflection width="600" height="400" >}}

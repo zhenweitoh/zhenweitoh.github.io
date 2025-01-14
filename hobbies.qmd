@@ -1,5 +1,33 @@
 ---
-title: "hobbies"
+title: "My Passions Beyond Technology"
 format: html
 ---
+
+# My Hobbies
+
+Welcome to a glimpse of what I do when I step away from the tech world. From giving back to the community to exploring the beauty of nature, here's what fuels my free time and enriches my life.
+
+## Community Engagement
+
+I believe in making a difference through active involvement in community services. Whether it's volunteering at The Purple Parade or organizing blood donation drives, I find immense satisfaction in helping others.
+
+![Volunteering](path/to/volunteerimage.jpg){width=80%}
+
+{{< video https://www.youtube.com/watch?v=Ic-hJgtNTlQ width="600" height="400" >}}
+
+## Environmental Conservation
+
+As an advocate for our planet, I participate in environmental CCAs and initiatives like tree planting and educational workshops on sustainability. These activities not only help the environment but also spread awareness about the importance of conservation.
+
+![Tree Planting](path/to/treeplanting.jpg){width=80%}
+
+## World Explorer
+
+Traveling opens new horizons and offers fresh perspectives. I've had the privilege to visit places like Bali, where the rich culture and stunning landscapes have left a lasting impression on me.
+
+![Bali Beach](path/to/balibeach.jpg){width=80%}
+
+{{< video https://www.youtube.com/watch?v=exampleTravel width="600" height="400" >}}
+
+Join me on this journey of personal growth and adventure, where each activity enhances my understanding of the world and the role I play in it.
 
