@@ -3,14 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Zhenwei.com"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About Me
+      - href: about.qmd
+        text: Projects
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: reflection.qmd
+        text: Reflection
+        
 
 format:
   html:
