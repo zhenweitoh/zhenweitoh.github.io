@@ -9,7 +9,7 @@ Throughout my academic and personal projects, I've integrated Generative AI (Gen
 
 ## Streamlining Content Creation
 
-Using AI for generating website content and visual media has been a game-changer. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation.
+I made use of GenAI to generating website content and visual media for my web development projects. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation. AI is able to give me the images I want with simple prompts. This is a life saving hack.
 
 ## Challenges and Learnings
 
