@@ -13,9 +13,11 @@ I made use of GenAI to generating website content and visual media for my web de
 
 ## Challenges and Learnings
 
-While GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill.
+While GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill. However, we should all wary of the potential pitfalls of AI such as hallucinations.
 
-![AI Concept](path/to/aiconcept.jpg){width=80%}
+Here are the different types of AI we have!
+
+![AI Cons](ai.png){width=80%}
 
 ## Future Prospects
 
@@ -23,4 +25,6 @@ I see immense potential in AI, especially in the realm of personalized education
 
 Reflecting on my journey with GenAI, I am both excited and cautious about its evolving role in our lives. The ability to leverage such tools responsibly and creatively will undoubtedly be a key driver in my future endeavors.
 
-{{< video https://www.youtube.com/watch?v=exampleAIReflection width="600" height="400" >}}
+Here is a video of my favourite man on this earth and what he thinks about the future of GENAI.
+
+{{< video https://www.youtube.com/watch?v=6Qs94yF8AHY width="600" height="400" >}}

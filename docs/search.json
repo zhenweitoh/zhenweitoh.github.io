@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "My Projects Portfolio",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "EcoTracker Project Overview\n\n\nEcoTracker is an innovative web application designed to help individuals and organizations track and reduce their carbon footprint. This platform provides tools to input daily activities, calculate total carbon emissions, and suggest personalized tips for reducing environmental impact.\n\n\n\nCarbon Calculation: Users can log various activities, such as driving, flying, or energy consumption, to see their carbon impact.\nReduction Tips: The system offers tailored advice on reducing emissions based on user behavior.\nCommunity Challenges: Users can participate in challenges to compete for the lowest carbon footprint.\n\n\n\n\n\nFrontend: React.js and Bootstrap for a responsive design.\nBackend: Node.js with Express for server-side logic.\nDatabase: MongoDB for storing user data and activity logs.\nAPI Integration: Integrates with various data sources for real-time carbon calculation.\n\n\n\n\nEcoTracker aims to raise awareness and promote actionable changes in everyday behaviors that contribute to global carbon emissions. It has been piloted in several cities and has led to a measurable decrease in the carbon footprint of its users.\n\n\n\nThis interactive chart lets you explore the typical emissions from various activities:\n\n\n\n\nlibrary(plotly)\n\n\n\ndata &lt;- data.frame( Activity = c(“Driving”, “Flying”, “Home Energy”, “Public Transport”), Emissions = c(20, 50, 30, 10) )\n\n\n\nfig &lt;- plot_ly(data, x = ~Activity, y = ~Emissions, type = ‘bar’, marker = list(color = ‘rgb(55, 128, 191)’)) # Corrected color format fig"
   },
   {
     "objectID": "index.html#about-me",
@@ -32,62 +32,76 @@
     "href": "index.html#why-this-website",
     "title": "Welcome to Zhen Wei Portfolio",
     "section": "Why This Website?",
-    "text": "Why This Website?\nThis website serves as a platform for me to share my journey, showcase my projects, and connect with like-minded individuals and professionals. It’s a living portfolio, not just of my work but also of my continuous learning and growth in fintech.\nFeel free to explore my projects, read my blog.\n\nThank You for Visiting!\nStay connected! Follow me on LinkedIn or drop me an email at 2303006@sit.singaporetech.edu.sg."
+    "text": "Why This Website?\nThis website serves as a platform for me to share my journey, showcase my projects, and connect with like-minded individuals and professionals. It’s a living portfolio, not just of my work but also of my continuous learning and growth in fintech.\nFeel free to explore my projects, read my blog."
   },
   {
     "objectID": "reflection.html",
     "href": "reflection.html",
-    "title": "reflection",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "Throughout my academic and personal projects, I’ve integrated Generative AI (GenAI) tools to enhance productivity and creativity. Here’s how these tools have shaped my work:\n\n\nUsing AI for generating website content and visual media has been a game-changer. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation.\n\n\n\nWhile GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill.\n\n\n\nAI Concept\n\n\n\n\n\nI see immense potential in AI, especially in the realm of personalized education and sustainable solutions. As I continue to explore AI capabilities, I aim to harness this technology to drive meaningful innovations in Fintech and beyond.\nReflecting on my journey with GenAI, I am both excited and cautious about its evolving role in our lives. The ability to leverage such tools responsibly and creatively will undoubtedly be a key driver in my future endeavors."
+    "text": "Throughout my academic and personal projects, I’ve integrated Generative AI (GenAI) tools to enhance productivity and creativity. Here’s how these tools have shaped my work:\n\n\nI made use of GenAI to generating website content and visual media for my web development projects. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation. AI is able to give me the images I want with simple prompts. This is a life saving hack.\n\n\n\nWhile GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill.\n\n\n\nAI Concept\n\n\n\n\n\nI see immense potential in AI, especially in the realm of personalized education and sustainable solutions. As I continue to explore AI capabilities, I aim to harness this technology to drive meaningful innovations in Fintech and beyond.\nReflecting on my journey with GenAI, I am both excited and cautious about its evolving role in our lives. The ability to leverage such tools responsibly and creatively will undoubtedly be a key driver in my future endeavors."
   },
   {
     "objectID": "reflection.html#streamlining-content-creation",
     "href": "reflection.html#streamlining-content-creation",
-    "title": "reflection",
+    "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "Using AI for generating website content and visual media has been a game-changer. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation."
+    "text": "I made use of GenAI to generating website content and visual media for my web development projects. It has allowed me to focus more on the structure and user experience of my projects rather than spending excessive time on content generation. AI is able to give me the images I want with simple prompts. This is a life saving hack."
   },
   {
     "objectID": "reflection.html#challenges-and-learnings",
     "href": "reflection.html#challenges-and-learnings",
-    "title": "reflection",
+    "title": "Reflection on the use of GenAI",
     "section": "",
     "text": "While GenAI tools provide a robust starting point, they require careful supervision to ensure accuracy and relevance. The challenge often lies in refining the output to align with personal tone and context, which remains a critical skill.\n\n\n\nAI Concept"
   },
   {
     "objectID": "reflection.html#future-prospects",
     "href": "reflection.html#future-prospects",
-    "title": "reflection",
+    "title": "Reflection on the use of GenAI",
     "section": "",
     "text": "I see immense potential in AI, especially in the realm of personalized education and sustainable solutions. As I continue to explore AI capabilities, I aim to harness this technology to drive meaningful innovations in Fintech and beyond.\nReflecting on my journey with GenAI, I am both excited and cautious about its evolving role in our lives. The ability to leverage such tools responsibly and creatively will undoubtedly be a key driver in my future endeavors."
   },
   {
     "objectID": "hobbies.html",
     "href": "hobbies.html",
-    "title": "hobbies",
+    "title": "My Passions Beyond Technology",
     "section": "",
     "text": "Welcome to a glimpse of what I do when I step away from the tech world. From giving back to the community to exploring the beauty of nature, here’s what fuels my free time and enriches my life.\n\n\nI believe in making a difference through active involvement in community services. Whether it’s volunteering at The Purple Parade or organizing blood donation drives, I find immense satisfaction in helping others.\n\n\n\nVolunteering\n\n\n\n\n\n\nAs an advocate for our planet, I participate in environmental CCAs and initiatives like tree planting and educational workshops on sustainability. These activities not only help the environment but also spread awareness about the importance of conservation.\n\n\n\nTree Planting\n\n\n\n\n\nTraveling opens new horizons and offers fresh perspectives. I’ve had the privilege to visit places like Bali, where the rich culture and stunning landscapes have left a lasting impression on me.\n\n\n\nBali Beach\n\n\n\nJoin me on this journey of personal growth and adventure, where each activity enhances my understanding of the world and the role I play in it."
   },
   {
     "objectID": "hobbies.html#community-engagement",
     "href": "hobbies.html#community-engagement",
-    "title": "hobbies",
+    "title": "My Passions Beyond Technology",
     "section": "",
     "text": "I believe in making a difference through active involvement in community services. Whether it’s volunteering at The Purple Parade or organizing blood donation drives, I find immense satisfaction in helping others.\n\n\n\nVolunteering"
   },
   {
     "objectID": "hobbies.html#environmental-conservation",
     "href": "hobbies.html#environmental-conservation",
-    "title": "hobbies",
+    "title": "My Passions Beyond Technology",
     "section": "",
     "text": "As an advocate for our planet, I participate in environmental CCAs and initiatives like tree planting and educational workshops on sustainability. These activities not only help the environment but also spread awareness about the importance of conservation.\n\n\n\nTree Planting"
   },
   {
     "objectID": "hobbies.html#world-explorer",
     "href": "hobbies.html#world-explorer",
-    "title": "hobbies",
+    "title": "My Passions Beyond Technology",
     "section": "",
     "text": "Traveling opens new horizons and offers fresh perspectives. I’ve had the privilege to visit places like Bali, where the rich culture and stunning landscapes have left a lasting impression on me.\n\n\n\nBali Beach\n\n\n\nJoin me on this journey of personal growth and adventure, where each activity enhances my understanding of the world and the role I play in it."
+  },
+  {
+    "objectID": "index.html#my-school",
+    "href": "index.html#my-school",
+    "title": "Welcome to Zhen Wei Portfolio",
+    "section": "My School",
+    "text": "My School\n\n\n\nThe Singapore Institute of Technology (SIT) is Singapore’s first University of Applied Learning and the third largest university by intake in Singapore. SIT’s mission is to maximise the potential of our learners and to innovate with industry, through an integrated applied learning and research approach, so as to contribute to the economy and society.\n\n\n\nThank You for Visiting!\nStay connected! Follow me on LinkedIn or drop me an email at 2303006@sit.singaporetech.edu.sg."
+  },
+  {
+    "objectID": "about.html#ecotracker-sustainability-through-technology",
+    "href": "about.html#ecotracker-sustainability-through-technology",
+    "title": "My Projects Portfolio",
+    "section": "",
+    "text": "EcoTracker Project Overview\n\n\nEcoTracker is an innovative web application designed to help individuals and organizations track and reduce their carbon footprint. This platform provides tools to input daily activities, calculate total carbon emissions, and suggest personalized tips for reducing environmental impact.\n\n\n\nCarbon Calculation: Users can log various activities, such as driving, flying, or energy consumption, to see their carbon impact.\nReduction Tips: The system offers tailored advice on reducing emissions based on user behavior.\nCommunity Challenges: Users can participate in challenges to compete for the lowest carbon footprint.\n\n\n\n\n\nFrontend: React.js and Bootstrap for a responsive design.\nBackend: Node.js with Express for server-side logic.\nDatabase: MongoDB for storing user data and activity logs.\nAPI Integration: Integrates with various data sources for real-time carbon calculation.\n\n\n\n\nEcoTracker aims to raise awareness and promote actionable changes in everyday behaviors that contribute to global carbon emissions. It has been piloted in several cities and has led to a measurable decrease in the carbon footprint of its users.\n\n\n\nThis interactive chart lets you explore the typical emissions from various activities:\n\n\n\n\nlibrary(plotly)\n\n\n\ndata &lt;- data.frame( Activity = c(“Driving”, “Flying”, “Home Energy”, “Public Transport”), Emissions = c(20, 50, 30, 10) )\n\n\n\nfig &lt;- plot_ly(data, x = ~Activity, y = ~Emissions, type = ‘bar’, marker = list(color = ‘rgb(55, 128, 191)’)) # Corrected color format fig"
   }
 ]

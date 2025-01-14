@@ -1,9 +1,51 @@
 ---
-title: "About"
+title: "My Projects Portfolio"
+format: html
+css: project.css
 ---
 
-About this site
+## EcoTracker: Sustainability Through Technology
+
+::: {class="project-header"}
+EcoTracker Project Overview
+:::
+
+::: {class="project-content"}
+EcoTracker is an innovative web application designed to help individuals and organizations track and reduce their carbon footprint. This platform provides tools to input daily activities, calculate total carbon emissions, and suggest personalized tips for reducing environmental impact.
+
+### Key Features
+- **Carbon Calculation**: Users can log various activities, such as driving, flying, or energy consumption, to see their carbon impact.
+- **Reduction Tips**: The system offers tailored advice on reducing emissions based on user behavior.
+- **Community Challenges**: Users can participate in challenges to compete for the lowest carbon footprint.
+
+### Technologies Used
+- Frontend: React.js and Bootstrap for a responsive design.
+- Backend: Node.js with Express for server-side logic.
+- Database: MongoDB for storing user data and activity logs.
+- API Integration: Integrates with various data sources for real-time carbon calculation.
+
+### Project Impact
+EcoTracker aims to raise awareness and promote actionable changes in everyday behaviors that contribute to global carbon emissions. It has been piloted in several cities and has led to a measurable decrease in the carbon footprint of its users.
+
+![](ecotrack.jpg){class="project-image"}
+
+#### Interactive Emissions Chart
+
+This interactive chart lets you explore the typical emissions from various activities:
 
 ```{r}
-1 + 1
-```
+# R code for an interactive Plotly chart showing emission data
+library(plotly)
+
+# Creating a data frame for emissions by activity
+data <- data.frame(
+  Activity = c("Driving", "Flying", "Home Energy", "Public Transport"),
+  Emissions = c(20, 50, 30, 10)
+)
+
+# Generating a Plotly bar chart
+fig <- plot_ly(data, x = ~Activity, y = ~Emissions, type = 'bar',
+               marker = list(color = 'rgb(55, 128, 191)'))  # Corrected color format
+fig
+
+
