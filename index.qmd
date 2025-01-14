@@ -1,11 +1,31 @@
 ---
-title: "temp_website"
+title: "Welcome to Zhen Wei Portfolio"
 ---
 
-This is a Quarto website.
+## About Me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a Applied Computing Fintech student, passionate about finance and technology. Currently based in Singapore, I specialize in cloud and data computing, and I am always eager to learn more and tackle new challenges.
 
-```{r}
-1 + 123
-```
+Here's a little more about what makes me tick:
+
+- **What I Do:** I eat and sleep
+- **My Interests:** muay thai
+- **Career Goals:** My goal is to open a prata shop
+
+## My Philosophy
+
+> "One day or Day One" - [Elon Musk]
+
+This quote has guided me through various challenges and highlights my approach towards personal and professional life .
+
+## Why This Website?
+
+This website serves as a platform for me to share my journey, showcase my projects, and connect with like-minded individuals and professionals. It’s a living portfolio, not just of my work but also of my continuous learning and growth in fintech.
+
+Feel free to explore my projects, read my blog.
+
+---
+
+**Thank You for Visiting!**
+
+Stay connected! Follow me on [LinkedIn]([https://www.linkedin.com/in/tohzhenwei/]) or drop me an email at [2303006@sit.singaporetech.edu.sg](mailto:2303006@sit.singaporetech.edu.sg).

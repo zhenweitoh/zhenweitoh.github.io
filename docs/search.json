@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Welcome to Zhen Wei Portfolio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 123\n\n[1] 124"
+    "text": "I’m a Applied Computing Fintech student, passionate about finance and technology. Currently based in Singapore, I specialize in cloud and data computing, and I am always eager to learn more and tackle new challenges.\nHere’s a little more about what makes me tick:\n\nWhat I Do: I eat and sleep\nMy Interests: muay thai\nCareer Goals: My goal is to open a prata shop"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Welcome to Zhen Wei Portfolio",
+    "section": "",
+    "text": "I’m a Applied Computing Fintech student, passionate about finance and technology. Currently based in Singapore, I specialize in cloud and data computing, and I am always eager to learn more and tackle new challenges.\nHere’s a little more about what makes me tick:\n\nWhat I Do: I eat and sleep\nMy Interests: muay thai\nCareer Goals: My goal is to open a prata shop"
+  },
+  {
+    "objectID": "index.html#my-philosophy",
+    "href": "index.html#my-philosophy",
+    "title": "Welcome to Zhen Wei Portfolio",
+    "section": "My Philosophy",
+    "text": "My Philosophy\n\n“One day or Day One” - [Elon Musk]\n\nThis quote has guided me through various challenges and highlights my approach towards personal and professional life ."
+  },
+  {
+    "objectID": "index.html#why-this-website",
+    "href": "index.html#why-this-website",
+    "title": "Welcome to Zhen Wei Portfolio",
+    "section": "Why This Website?",
+    "text": "Why This Website?\nThis website serves as a platform for me to share my journey, showcase my projects, and connect with like-minded individuals and professionals. It’s a living portfolio, not just of my work but also of my continuous learning and growth in fintech.\nFeel free to explore my projects, read my blog.\n\nThank You for Visiting!\nStay connected! Follow me on LinkedIn or drop me an email at 2303006@sit.singaporetech.edu.sg."
   }
 ]
